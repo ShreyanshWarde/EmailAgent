@@ -58,3 +58,5 @@ instance/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+pyvenv.cfg
